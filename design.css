@@ -27,7 +27,7 @@ body::after{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-	opacity: 10%;
+	opacity: 20%;
 	transition: 14s;
 	animation: pic ease-in 10s infinite;
 }
@@ -91,7 +91,7 @@ body::after{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-	opacity: 10%;
+	opacity: 20%;
 	transition: 5s;
 	}
 	70%{
@@ -106,7 +106,7 @@ body::after{
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position:center center;
-		opacity:10%;
+		opacity:20%;
 		transition:5s;
 	}
 }
@@ -329,8 +329,8 @@ border-radius:50%;
 }
 #boxs{
 position:relative;
-width:750px;
-height:750px;
+width:600px;
+height:800px;
 justify-content:center;
 background:black;
 margin:70px;
