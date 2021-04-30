@@ -92,7 +92,7 @@ function showbutton() {
 }
 
 setTimeout(showbd, 46000);
-setTimeout(showbutton, 49100);
+setTimeout(showbutton, 53100);
 $("#boxs").hide();
 let p = document.getElementById("typewriters");
 let texts = `Hey! Today is the happiest day in my life, you wanna know why? Cause I have been watching you grow, right from the height to the ass to the boobs, you have grown more matured and beautiful. You are a girl whom I love a lot and I wouldn't mind spending the rest of my life with you. Common look at you, you are the most beautiful girl I have ever seen, you are courageous, kind and also hot at the same time, lol! You changed my life, you made me who I am today, you encouraged me to be the best of the best and you instilled the "don't you ever give up" attitude in me.
