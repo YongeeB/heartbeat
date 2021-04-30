@@ -188,12 +188,13 @@ color: #ff022c;
 	background: transparent;
 	border: none;
 	font-weight: bold;
-	color: gold;
+	color: white;
 	box-shadow: 2px 3px 5px blue;
 	text-align:center;
 	justify-content:center;
 	align-items: center;
-	padding:5px;
+	padding:10px;
+	font-size:20px;
 
 }
 .box span img{
