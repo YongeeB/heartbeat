@@ -331,17 +331,17 @@ border-radius:50%;
 }
 #boxs{
 position:relative;
-width:600px;
-height:800px;
+width:700px;
+height:700px;
 justify-content:center;
 background:black;
-margin:70px;
+margin:60px;
 }
 #boxs #glass{
 position:absolute;
 top:0;
 left:0;
-width:50%;
+width:70%;
 height:100%;
 display:block;
 background:rgba(255,255,255,.1);
@@ -350,7 +350,7 @@ pointer-events:none;
 #boxs #content{
 padding:20px;
 color:#fff;
-font-size:30px;
+font-size:25px;
 font-family:piazzolla;
 }
 #boxs #content h2{
